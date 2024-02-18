@@ -23,6 +23,24 @@ Hello, I'm Lokesh Pereiro a Fullstack developer mainly oriented and passionate a
 
 ### Project Structure
 
-```
 This portfolio project has a professional and up-to-date file and folder structure, so you can navigate through it very easily and get a better idea of the relationship between the components, hooks, lib, assets, etc.
+
+## Run de app
+
+- Clone or download the folder (drap and drop the app into VSCode)
+
+```
+npm clone git@github.com:LokeshPereiro/Lokesh_portfolio.git
+```
+
+- After that run
+
+```
+npm install
+```
+
+- Run locally, its an open source project
+
+```
+npm run dev
 ```
