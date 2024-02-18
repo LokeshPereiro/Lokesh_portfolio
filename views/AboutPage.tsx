@@ -24,13 +24,12 @@ export const AboutPage = () => {
         website. After graduating with a degree in{" "}
         <span className="font-medium">Business Administration</span>, I decided
         to pursue my passion for programming. I'm a passionate
-        <span>fullstack-stack developer</span> with a year of self-taught
-        experience in frontend technologies, complemented by a rigorous 7-month
-        intensive master's course that significantly enhanced my software
-        development skills.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I love the feeling of finally figuring out a
-        solution to a problem. My core stack is{" "}
+        <span> full-stack developer</span> with a year of self-taught experience
+        in frontend technologies, complemented by a rigorous 7-month intensive
+        master's course that significantly enhanced my software development
+        skills. <span className="italic">My favorite part of programming</span>{" "}
+        is the problem-solving aspect. I love the feeling of finally figuring
+        out a solution to a problem. My core stack is{" "}
         <span className="font-medium">React, Next.js, Node.js and MongoDB</span>
         . I am also familiar with TypeScript and Strapi CMS. I am always looking
         to learn new technologies. I am currently looking for a{" "}
