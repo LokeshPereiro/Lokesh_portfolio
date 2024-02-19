@@ -5,11 +5,6 @@ export const Footer = () => {
         &copy; {new Date().getFullYear()} Lokesh Pereiro. All rights reserved -
         Made with 💖
       </small>
-      <p className="text-xs">
-        <span className="font-semibold">Tech Stack:</span> built with React &
-        Next.js (App Router & Server Actions), TypeScript, Tailwind CSS, Framer
-        Motion, React Email & Resend.
-      </p>
     </footer>
   );
 };
