@@ -45,7 +45,7 @@ export const experiencesData = [
     title: "Fullstack software developer",
     location: "Barcelona, Spain",
     description:
-      "Although it is often confused with traditional formation, it was actually working experience. Developed cutting-edge and modern SPA projects in a real company environment using agile methodologies. The technology staqck we used was MERN: Mongodb, Express, React and Node.",
+      "Although it is often confused with traditional formation, it was actually working experience. Developed cutting-edge and modern SPA projects in a real company environment using agile methodologies. The technology stack we used was MERN: Mongodb, Express, React and Node.",
     icon: React.createElement(CgWorkAlt),
     date: "June 2022 - May 2023",
   },

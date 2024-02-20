@@ -29,13 +29,12 @@ export const ProjectItem = ({
   const opacityProgess = useTransform(scrollYProgress, [0, 1], [0.6, 1]);
 
   return (
-    <div
+    <motion.div
       ref={ref}
-      // style={{
-      //   scale: scaleProgess,
-      //   opacity: opacityProgess,
-      // }
-      // }
+      style={{
+        scale: scaleProgess,
+        opacity: opacityProgess,
+      }}
       className="group mb-3 sm:mb-8 last:mb-0 relative"
     >
       <section className="bg-gray-100 max-w-[42rem] border border-black/5 rounded-lg overflow-hidden sm:pr-8 relative sm:h-[20rem] hover:bg-gray-200 transition sm:group-even:pl-8 dark:text-white dark:bg-white/10 dark:hover:bg-white/20">
@@ -98,6 +97,6 @@ export const ProjectItem = ({
           />
         </div>
       </section>
-    </div>
+    </motion.div>
   );
 };
