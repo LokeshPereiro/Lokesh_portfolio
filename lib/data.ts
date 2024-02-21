@@ -47,7 +47,7 @@ export const experiencesData = [
     description:
       "Although it is often confused with traditional formation, it was actually working experience. Developed cutting-edge and modern SPA projects in a real company environment using agile methodologies. The technology stack we used was MERN: Mongodb, Express, React and Node.",
     icon: React.createElement(CgWorkAlt),
-    date: "June 2022 - May 2023",
+    date: "June 2022 - Feb 2023",
   },
   {
     title: "Freelancer",

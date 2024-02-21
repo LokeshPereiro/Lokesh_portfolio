@@ -97,7 +97,7 @@ export const LandingPage = () => {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-105 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/CV_LokeshPereiro.pdf"
+          href="/FullstackDeveloper_LokeshPereiro.pdf"
           download
         >
           Download CV{" "}
